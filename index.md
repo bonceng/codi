@@ -8,7 +8,7 @@ All the materials, quizes, and informations related to the course will be backup
 
 - [(Slide) Course Overview](https://docs.google.com/presentation/d/1_2CBNXbTxSfNE-ZyvvsyPmcJzBh-QnyZ0sam4QWDGss)
 - [(Slide) Input Output](https://docs.google.com/presentation/d/1znGY50H2Ankue-beklZYFSE6qQrveVfEOyW72e3WqtA)
-- [(Quiz) Assessment Test](#TODO)
+- [(Quiz) Assessment Test](https://ristek.link/COD-Odd-Test)
 - [Tutorial Instalasi Python 3 - Windows dan Mac](pdf/Tutorial_Instalasi_Python3_WinMac.pdf)
 - [Tutorial Instalasi Visual Studio Code - Windows dan Mac](pdf/Tutorial_Instalasi_VSCode_WinMac.pdf)
 
