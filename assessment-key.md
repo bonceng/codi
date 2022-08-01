@@ -1,3 +1,5 @@
+# Assessment Test - Answer Key
+
 1. Given the code below:
     ```python
     a = 10
@@ -34,9 +36,7 @@
     ```
     What is the program output? (Enter the right output)
 
-    > ```
     > 10 3 1
-    > ```
 
 1. Which are the invalid variable name? Python variable naming rule is similar to C++. (You may choose more than one)
     
@@ -301,3 +301,5 @@
     print(s[3] + s[8] + s[2] + s[6] + s[13])
     ```
     What is the program output? (Just enter the output)
+
+    > a man
