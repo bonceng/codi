@@ -4,8 +4,16 @@ Welcome to Coding - Intermediate courses website!
 
 All the materials, quizes, and informations related to the course will be backup here.
 
-For `Coding - Beginner` course website: [click here!](https://bonceng.github.io/codb)
+For `Coding - Basic` course website: [click here!](https://bonceng.github.io/codb)
 
+## Assignment
+### Lab 1
+08 August - 16 August 2022
+- [Description](https://docs.google.com/document/d/1RSZSG9GVMu0zTSkdDNp_dHiDtx_x_0EQMntoGou1lYM/)
+- [Code Template](https://gist.github.com/bonceng/65af660b24330b6a18802be4f72251dd)
+- [Submission Slot](http://bit.ly/MPS_Student_Task_Submission)
+
+## Material
 ### Week 1
 
 - [(Slide) Course Overview](https://docs.google.com/presentation/d/1_2CBNXbTxSfNE-ZyvvsyPmcJzBh-QnyZ0sam4QWDGss)
@@ -17,6 +25,9 @@ For `Coding - Beginner` course website: [click here!](https://bonceng.github.io/
 
 ### Week 2
 - [(Slide) Variables and List](https://docs.google.com/presentation/d/1G3rD4vf7bCtHfGmA-7zpkMwo9QllQkSk4VVjAPnbsDY)
+
+### Week 3
+- [(Slide) Conditional and Looping](https://docs.google.com/presentation/d/1JyaHztAhPCh5bxtmA_D4ZYcefQQsEw5c-dg5FV2b1DI/)
 
 ### References
 - [Python Crash Course – 2nd Edition by Eric Matthes](https://www.google.co.id/books/edition/Python_Crash_Course_2nd_Edition/w1v6DwAAQBAJ)
