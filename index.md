@@ -4,7 +4,7 @@ Welcome to Coding - Intermediate courses website!
 
 All the materials, quizes, and informations related to the course will be backup here.
 
-For `Coding - Basic` course website: [click here!](https://bonceng.github.io/codb)
+For `Coding - Beginner` course website: [click here!](https://bonceng.github.io/codb)
 
 ## Assignment
 ### Lab 1
@@ -28,6 +28,9 @@ For `Coding - Basic` course website: [click here!](https://bonceng.github.io/cod
 
 ### Week 3
 - [(Slide) Conditional and Looping](https://docs.google.com/presentation/d/1JyaHztAhPCh5bxtmA_D4ZYcefQQsEw5c-dg5FV2b1DI/)
+
+### Week 4
+- [(Slide) Function and Python Module](https://docs.google.com/presentation/d/1hvPdN4ffo7sef-NlwRs8pGdtOLyETdzadUzaCqqYVsM)
 
 ### References
 - [Python Crash Course – 2nd Edition by Eric Matthes](https://www.google.co.id/books/edition/Python_Crash_Course_2nd_Edition/w1v6DwAAQBAJ)
